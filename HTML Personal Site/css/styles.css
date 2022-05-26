@@ -1,0 +1,21 @@
+body {
+  background-color: powderblue;
+}
+
+h1, h2, h3 {
+  color: green;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+}
+
+img {
+  height: 175px;
+}
+
+a:hover {
+  color: red;
+}
